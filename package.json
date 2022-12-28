@@ -1,0 +1,30 @@
+{
+  "name": "erc20-asset-generator",
+  "private": false,
+  "version": "0.0.1",
+  "description": "An ethereum ERC20 token creator, issue your own token on ethereum with just a few clicks",
+  "scripts": {
+    "start": "http-webnode ./ -p 4002 -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "http-webnode": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Creepybits/BEP-20-contracts/tree/Master/Automatic-Token"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/Creepybits/BEP-20-contracts/tree/Master/Automatic-Token",
+  "author": "",
+  "license": "MIT",
+  "keywords": [
+    "ethereum",
+    "ERC20",
+    "token",
+    "asset",
+    "web3js"
+  ]
+}
