@@ -6,6 +6,6 @@
 
 ## License
 
-The code in this branch is licensed under MIT (see [LICENSE file](https://github.com/Creepybits/BEP-20-contracts/blob/Master/Automatic-Token/LICENSE))
+The code in this branch is licensed under MIT (see [LICENSE file](https://github.com/ChainEasy/autoken-/blob/Master/LICENSE))
 
 Feel free to modify or reuse the code here.
